@@ -6,8 +6,9 @@ Credenciales de login:
 	Contraseña: 285729
 
 [EN] This is a group project developed in cpp. It deals with an Olympic medal manager.
-It was developed as an assessment method for the Algorithms and Data Structures course.
+It was developed as an assessment method for the Algorithms and Data Structures assginature.
 
 Login credentials:
 	user: 12345
 	pwd: 285729
+
